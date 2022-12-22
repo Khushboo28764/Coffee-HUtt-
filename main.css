@@ -1,0 +1,66 @@
+#indulge {
+    font-family: 'Abel',sans-serif;
+    color: #846C63; }
+  
+  .vid-container {
+    margin-top: 18px; }
+  
+  #about #questions a {
+    color: #88AAA9 !important; }
+  
+  html {
+    font-family: 'Abel',sans-serif; }
+  
+  html {
+    background-color: #F6F4F1 !important;
+    font-family: 'Abel',sans-serif;
+    color: #846C63; }
+  
+  .nav-white {
+    background-color: white; }
+    .nav-white .nav-options li a {
+      color: #88AAA9; }
+    .nav-white .menu-icon {
+      color: #2D5B60; }
+    .nav-white .brand-logo {
+      color: #846C63; }
+  
+  .coffee-info {
+    margin-top: 19px; }
+    .coffee-info a {
+      margin: 1.5px;
+      background-color: #88AAA9;
+      color: white !important;
+      font-family: 'Abel',sans-serif;
+      font-weight: 100; }
+    .coffee-info a:hover {
+      background-color: #E48A1A; }
+  
+  .coffee-contents section {
+    margin-top: 58px; }
+  .coffee-contents .title {
+    padding-left: 10px;
+    margin: 0; }
+  
+  footer {
+    background-color: rgba(189, 177, 173, 0.1) !important;
+    font-weight: 100; }
+    footer .footer-title {
+      font-weight: 100; }
+    footer .description {
+      font-size: 13px;
+      margin-bottom: 30px; }
+    footer span {
+      font-size: 12.2px; }
+      footer span a {
+        color: #88AAA9 !important; }
+    footer .cat-list {
+      color: #88AAA9 !important;
+      font-size: 15px;
+      font-weight: 100; }
+    footer .partner-list {
+      color: #88AAA9 !important;
+      font-size: 15px;
+      font-weight: 100; }
+  
+  /*# sourceMappingURL=main.css.map */
